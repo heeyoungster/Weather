@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+*{box-sizing: border-box;}
+html, body{margin: 0; padding: 0;}
+h1, p{margin: 0;}
+
+section{width: 100%; height: 100vh; position: relative; background-color: #6688ee; display: flex; justify-content: center; align-items: center;}
+
+section div{text-align: center;}
+section div h1{font-size: 28px; color:#fff; padding-bottom: 40px; font-style: italic;}
+section div span{font-size: 120px; color:#fff;}
+
+section p{position: absolute; bottom: 20px; left:50%; transform: translateX(-50%); color:#eee; font-size: 14px;}
