@@ -22,7 +22,7 @@ a{text-decoration:none;}
 #user_select .search{width: 400px; margin: 0 auto; border-radius: 4px; border: 1px solid #68e; display: flex; align-items: center; flex-wrap: wrap; padding-left: 10px; margin-bottom: 20px;}
 
 #user_select .search input{width: calc(100% - 100px); height: 40px; border: none; font-size: 16px;}
-#user_select .search input#search_box{border: none;}
+
 #user_select .search button{width: 100px; height: 40px; border: none; background-color: #68e; color: #fff; font-size: 16px; cursor: pointer;}
 
 #user_select .search button:hover{background-color: #4668ce;}
